@@ -13,12 +13,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Please familiarize yourself with that before seeing the code.
 
 # Usage
+
 1. In order to clone
 ``git clone https://github.com/zahidirfan/react-stocks-chart.git``
+
 2. Install
 ``npm install``
+
 3. Run the program
 ``npm start``
+
 The symbol information is provided in the Funds tag as property.
 
 ```
