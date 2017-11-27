@@ -15,7 +15,7 @@ Please familiarize yourself with that before seeing the code.
 # Usage
 
 1. In order to clone
-``git clone https://github.com/zahidirfan/react-stocks-chart.git``
+``git clone https://github.com/FranciscoBosch/react-visualization.git``
 
 2. Install
 ``npm install``
